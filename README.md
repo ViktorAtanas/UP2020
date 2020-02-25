@@ -13,6 +13,8 @@ System.out.println("Hello");
 public void greetItalian(){
 System.out.println("Ciaobxfds");
 }
-
+public void funTime(){
+System.out.println("HaveFun");
+}
 
 }
