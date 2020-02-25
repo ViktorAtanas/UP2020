@@ -1,7 +1,9 @@
 # UP2020
-public class HelloWor4ld{
+public class Greeting{
 public static void main(Sting[] args){
-System.out.println("HelloWorld");
+
+Greeting gr = new Greeting();
+gr.greetItalian();
 }
 
 public void greetEnglish(){
